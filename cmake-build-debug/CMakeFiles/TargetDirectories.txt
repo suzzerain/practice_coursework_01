@@ -1,0 +1,3 @@
+C:/Users/vvlad/CLionProjects/practice_coursework_01/cmake-build-debug/CMakeFiles/practice_coursework_01.dir
+C:/Users/vvlad/CLionProjects/practice_coursework_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vvlad/CLionProjects/practice_coursework_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
